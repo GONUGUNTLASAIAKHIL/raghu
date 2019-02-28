@@ -1,2 +1,2 @@
 #  Pachipulusu Raghuveer
-location:
+location: Narsaraopeta
